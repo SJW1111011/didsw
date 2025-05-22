@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">生物DID钱包</string>
+    
+    <!-- 主导航 -->
+    <string name="nav_identity">身份</string>
+    <string name="nav_credentials">凭证</string>
+    <string name="nav_scan">扫描</string>
+    <string name="nav_settings">设置</string>
+    
+    <!-- 身份管理 -->
+    <string name="title_identity">身份管理</string>
+    <string name="add_identity">添加身份</string>
+    <string name="identity_name">身份名称</string>
+    <string name="create_identity">创建身份</string>
+    <string name="delete_identity">删除身份</string>
+    <string name="auth_identity">验证身份</string>
+    
+    <!-- 凭证管理 -->
+    <string name="title_credentials">我的凭证</string>
+    <string name="add_credential">添加凭证</string>
+    <string name="credential_details">凭证详情</string>
+    <string name="share_credential">分享凭证</string>
+    <string name="verify_credential">验证凭证</string>
+    
+    <!-- 生物认证 -->
+    <string name="bio_auth_title">生物特征验证</string>
+    <string name="bio_auth_subtitle">请验证您的身份</string>
+    <string name="bio_auth_success">验证成功</string>
+    <string name="bio_auth_failed">验证失败</string>
+    
+    <!-- 通用 -->
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="delete">删除</string>
+    <string name="create">创建</string>
+    <string name="select">选择</string>
+    <string name="save">保存</string>
+    <string name="share">分享</string>
+</resources> 
